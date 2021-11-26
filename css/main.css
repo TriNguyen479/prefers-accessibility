@@ -69,8 +69,12 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-  body{
+  body {
     background-color: black;
+  }
+
+  .banner {
+    opacity: .5;
   }
 }
 /**
